@@ -1,0 +1,74 @@
+<!doctype html>
+<meta charset="utf-8">
+<link rel="stylesheet" href="../static/style.css">
+<title> — Ecoles de Commerce Rabat</title>
+<body>
+  <header>
+    <h1>Ecoles de Commerce Rabat</h1>
+    <nav>
+      <ul class="nav navbar-nav">
+        <li><a href="../">Welcome</a></li>
+        
+          <li class="active"><a href="../blog/">Blog</a></li>
+        
+          <li><a href="../projects/">Projects</a></li>
+        
+          <li><a href="../about/">About</a></li>
+        
+      </ul>
+    </nav>
+  </header>
+  <div class="page">
+    
+  
+    
+  <div class="blog-post">
+  
+    <h2><a href="../blog/first-post/">Hello Website</a></h2>
+  
+  <p class="meta">
+    written by
+    
+      Adil
+    
+    on 2016-12-17
+  </p>
+  <p>This is an example blog post.  Not much here but that's not the point :)</p>
+
+  </div>
+
+  
+    
+  <div class="blog-post">
+  
+    <h2><a href="../blog/used-to-be/">Used to be</a></h2>
+  
+  <p class="meta">
+    written by
+    
+      
+    
+    on 2016-11-17
+  </p>
+  
+  </div>
+
+  
+
+  
+  <div class="pagination">
+    
+      <span class="disabled">&laquo; Previous</span>
+    
+    | 1 |
+    
+      <span class="disabled">Next &raquo;</span>
+    
+  </div>
+
+
+  </div>
+  <footer>
+    &copy; Copyright 2016 by Adil.
+  </footer>
+</body>
