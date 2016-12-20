@@ -5,27 +5,23 @@
         <meta http-equiv="x-ua-compatible" content="ie=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <title>Foundation Starter Template</title>
-        <link rel="stylesheet" href="./static/foundation.min.css">
-        <link rel="stylesheet" href="./static/style.css">
-        <title> — ECR</title>
+        <link rel="stylesheet" href="../static/foundation.min.css">
+        <link rel="stylesheet" href="../static/style.css">
+        <title>Conseil à un étudiant d’une école de commerce au Maroc — ECR</title>
     </head>
     <body>
         <header>
             <div class="hero">
-              <img src="./static/PontM6.jpg" alt="" />
+              <img src="../static/PontM6.jpg" alt="" />
               <div class="herotext">
                 <h1>Ecoles  de commerce à Rabat</h1>
               </div>
             </div>
         </header>
         
+  
     
-        <br>
-        <div class="row">
-            <div class="small-8 small-centered columns">
-                
-    
-        <h2><a href="./first-post/">Conseil à un étudiant d’une école de commerce au Maroc</a></h2>
+        <h2>Conseil à un étudiant d’une école de commerce au Maroc</h2>
     
     <p>
         Posté par
@@ -54,26 +50,6 @@
 </ul>
 
 
-                <hr>
-            </div>
-        </div>
-    
-    <br>
-    <div class="row">
-        <div class="small-8 small-centered columns">
-            
-  <div class="pagination">
-    
-      <span class="disabled">&laquo; Previous</span>
-    
-    | 1 |
-    
-      <span class="disabled">Next &raquo;</span>
-    
-  </div>
-
-        </div>
-    </div>
 
         <footer>
             <div class="row">
@@ -82,9 +58,9 @@
                 </div>
             </div>
         </footer>
-        <script src="./static/jquery.min.js"></script>
-        <script src="./static/what-input.min.js"></script>
-        <script src="./static/foundation.min.js"></script>
+        <script src="../static/jquery.min.js"></script>
+        <script src="../static/what-input.min.js"></script>
+        <script src="../static/foundation.min.js"></script>
         <script> $(document).foundation(); </script>
     </body>
 </html>
