@@ -1,0 +1,149 @@
+<!doctype html>
+<html class="no-js" lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta http-equiv="x-ua-compatible" content="ie=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Foundation Starter Template</title>
+        <link rel="stylesheet" href="../static/foundation.min.css">
+        <link rel="stylesheet" href="../static/style.css">
+        <title>Efficience de l&#39;Enseignement Supérieur — ECR</title>
+    </head>
+    <body>
+        <header>
+            <div class="hero">
+            <!-- <img src="../static/PontM6.jpg" alt="" />
+                 <div class="herotext">
+                    <h1>Ecole de commerce à Rabat</h1>
+                    <hr>
+                    <h2> Que choisir ?</h2>
+                </div> -->
+                <img src="../static/PontM6.jpg" alt="" />
+                <div class="row">
+                    <div class="small-8 small-centered columns herotext text-center">
+                        <h1>Ecole de commerce à Rabat</h1>
+                        <hr class="stylish">
+                        <h2> Que choisir ?</h2>
+                    </div>
+              </div>
+            </div>
+        </header>
+        
+    <div class="row">
+        <div class="small-8 small-centered columns">
+            
+    
+        <h2>Efficience de l&#39;Enseignement Supérieur</h2>
+    
+    <p class="postinfo">
+        <em>
+            Posté par
+            
+                Rachid,
+            le 
+        </em>
+    </p>
+    
+        <p>La comparaison de l'efficience de l'Enseignement Supérieur Public (ENSPUB) et de l'Enseignement Supérieur Privé (ENSPRI) est un préalable à l'optimisation de l'emploi des ressources de l'Etat.</p>
+<p>Faute de données actualisées, nous nous sommes appuyés sur les données <a href="http://www.enssup.gov.ma/index.php/statistiques/statistiques-universitaires">statistiques officielles</a> de l'A.U. 2009/2010.</p>
+<h2>Statistiques de l'ENSPUB</h2>
+<ul>
+<li>Nombre d'inscrits total : 308 005</li>
+<li>Nombre d'inscrits en licence (L1 à L3) : 268 624</li>
+<li>Nombre d'inscrits en Master (M1 et M2) : 19 195</li>
+<li>Nombre d'inscrits en doctorat (D1 à D3) : 20 186</li>
+<li>Budget du Département de l'ESRSFC** : 7 136 190 000 DH</li>
+</ul>
+<h2>Statistiques de l'ENSPRI</h2>
+<ul>
+<li>Nombre d'inscrits total : 35 000</li>
+<li>Nombre estimé inscrits en M1 et M2* : 12 863</li>
+<li>Nombre d'inscrits en D1, D2 et D3 : 0</li>
+<li>Frais de scolarité moyens estimés d'un étudiant : 35 000 DH/an</li>
+<li>Budget estimé des écoles privées : 1 225 000 000 </li>
+</ul>
+<h2>L'efficience</h2>
+<p>L'efficience est le rapport entre le livrable et les ressources utilisées.</p>
+<p>On définit le livrable d'un établissement supérieur pour un cycle donné comme étant le nombre d'étudiants admis au cycle suivant.</p>
+<p>L'efficience des formations de premier cycle d'un établissement dépend donc du rapport entre le nombre d'admis au deuxième cycle et la part du budget dédiée à leur formation.</p>
+<h3>Pour simplifier les calculs</h3>
+<ul>
+<li>nous avons considéré que le budget et le nombre d'admis est constant dans le temps</li>
+<li>nous avons omis de retrancher au budget de l'ENSPUB les dépenses liés au cycle doctoral vu leur caractère négligeable par rapport au total</li>
+<li>nous avons omis de retrancher au budget de l'ENSPUB, les dépenses liées à l'ENSPRI vu leur caractère négligeable par rapport au total</li>
+</ul>
+<h3>Par manque d'informations</h3>
+<p>La répartition des étudiants par cycle dans le privé est indisponible sur le site du Ministère, nous nous sommes fiés à notre pifomètre (voir tableau*).</p>
+<h2>Calcul de l'efficience</h2>
+<ul>
+<li>Efficience ENSPUB :  2,82 * 10^-6</li>
+<li>Efficience ENSPRI : 10,50 * 10^^-6</li>
+</ul>
+<p>En d'autres termes, pour amener un étudiant en première année du deuxième cycle, <strong>l'on dépense 3,7 fois plus dans l'enseignement public que dans le privé</strong>.</p>
+<h2>Explications</h2>
+<p>Le manque d'<strong>efficience</strong> de l'ENSPUB s'explique par la déperdition très importante entre L1 et L2, et puis entre L2 et L3. A noter que cette déperdition se manifeste aussi entre cycles, puisqu'entre le cycle de licence et le cycle de master, l'on divise le nombre d'étudiants par 14.</p>
+<p>Cette déperdition est elle-même la résultante d'un manque d'<strong>efficacité</strong> du système qui n'arrive pas à rattraper les lacunes du système de l'enseignement général.</p>
+<h2>Conclusion</h2>
+<p>Il est temps de ré-examiner l'efficience de l'ENSPUB.</p>
+<p>Pour des raisons d'efficience, il serait intéressant de trouver un mécanisme pour encourager les étudiants à s'orienter davantage vers les formations privées.</p>
+<hr>
+<table>
+<thead><tr>
+<th>*Répartition estimée des étudiants de l'ENSPR</th>
+<th>Inscrits</th>
+<th>Taux de réussite</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Première année</td>
+<td>8400</td>
+<td>0,9</td>
+</tr>
+<tr>
+<td>Deuxième année</td>
+<td>7560</td>
+<td>0,9</td>
+</tr>
+<tr>
+<td>Troisième année</td>
+<td>6804</td>
+<td>0,95</td>
+</tr>
+<tr>
+<td>Quatrième année</td>
+<td>6464</td>
+<td>0,99</td>
+</tr>
+<tr>
+<td>Cinquième année</td>
+<td>6399</td>
+<td>--</td>
+</tr>
+<tr>
+<td>Total</td>
+<td>35627</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p>** Enseignement Supérieur de la Recherche Scientifique et de la Formation des Cadres"</p>
+
+    
+
+        </div>
+    </div>
+
+        <footer>
+            <div class="row">
+                <div class="small-8 small-centered columns">
+                    &copy; 2016 Ecoles de Commerce de Rabat
+                </div>
+            </div>
+        </footer>
+        <script src="../static/jquery.min.js"></script>
+        <script src="../static/what-input.min.js"></script>
+        <script src="../static/foundation.min.js"></script>
+        <script> $(document).foundation(); </script>
+    </body>
+</html>

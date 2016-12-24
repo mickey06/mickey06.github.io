@@ -1,0 +1,93 @@
+<!doctype html>
+<html class="no-js" lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta http-equiv="x-ua-compatible" content="ie=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Foundation Starter Template</title>
+        <link rel="stylesheet" href="../static/foundation.min.css">
+        <link rel="stylesheet" href="../static/style.css">
+        <title>Ecoles supérieures : une critique des classements — ECR</title>
+    </head>
+    <body>
+        <header>
+            <div class="hero">
+            <!-- <img src="../static/PontM6.jpg" alt="" />
+                 <div class="herotext">
+                    <h1>Ecole de commerce à Rabat</h1>
+                    <hr>
+                    <h2> Que choisir ?</h2>
+                </div> -->
+                <img src="../static/PontM6.jpg" alt="" />
+                <div class="row">
+                    <div class="small-8 small-centered columns herotext text-center">
+                        <h1>Ecole de commerce à Rabat</h1>
+                        <hr class="stylish">
+                        <h2> Que choisir ?</h2>
+                    </div>
+              </div>
+            </div>
+        </header>
+        
+    <div class="row">
+        <div class="small-8 small-centered columns">
+            
+    
+        <h2>Ecoles supérieures : une critique des classements</h2>
+    
+    <p class="postinfo">
+        <em>
+            Posté par
+            
+                Khalil,
+            le 2016-12-21
+        </em>
+    </p>
+    
+        <p>De plus en plus d'établissements s'appuient sur les classements ou palmarès pour faire leur promotion. Outre le problème de la crédibilité d'une bonne part des organisations qui réalisent ces classements, de nombreuses défaillances diminuent leur utilité réelle. Dans un souci de transparence, notez que cette publication est fortement inspirée par cet article de Malcolm Gladwell publié dans The New Yorker en 2011.</p>
+<p>Une méthodologie commune</p>
+<p>Quel que soit le classement, il est basé sur un ensemble de critères pondérés.</p>
+<p>Par exemple, le classement de Shanghai repose sur 6 critères :</p>
+<ul>
+<li>Nombre de lauréats ayant obtenu un prix Nobel ou une médaille Fields </li>
+<li>Nombre d'enseignants ayant obtenu un prix Nobel ou une médaille Fields</li>
+<li>Nombre de chercheurs très fortement cités par d'autres</li>
+<li>Nombre d'articles publiés dans les célèbres revues Nature ou Science</li>
+<li>Nombre d'articles indexés par Science Citation Index-expanded et Social Science Citation Index</li>
+<li>Les scores de 5 critères précédents pondérés et rapportés au nombre d'enseignants permanents</li>
+</ul>
+<p>Pour l'étudiant.fr, ces critères sont au nombre de 4 :</p>
+<ul>
+<li>Professeurs internationaux d'excellence</li>
+<li>Moyenne au bac des intégrés</li>
+<li>Indice recherche par professeur</li>
+<li>Labels internationaux </li>
+</ul>
+<p>Quant à Eduniversal, le classement d'une école s'établit en fonction des accréditations obtenues, des classements internationaux, de l'appartenance à des associations académiques ainsi que de l'avis des pairs. Ce dernier critère correspond à une évaluation par les tiers : les doyens évaluent les établissements de leurs pairs.</p>
+<p>Le classement de Shanghai élimine d'office les écoles de commerce, mêmes les plus prestigieuses, car les critères retenus sont favorables aux institutions de recherche de grande taille. Or les écoles de commerce ont pour mission de former de futurs cadres supérieurs à Bac + 5/6, non des chercheurs.</p>
+<p>Le classement de l'étudiant.fr a été conçu, quant à lui, pour évaluer ces écoles de commerce. Il répond donc à la critique précédente en reconnaissant implicitement qu'il est illusoire de vouloir classer ensemble les universités et les écoles. Néanmoins, il souffre d'au moins deux problèmes majeurs.  Premièrement, il ne tient pas compte de la qualité --forcément variable-- des filières de formation au sein d'un établissement. Les étudiants choisissent une formation par vocation et pour les débouchées qu'elle offre ; ces classements d'écoles ne peuvent les aider dans cette recherche. Deuxièmement, il suffit de changer la pondération pour obtenir des classements très différents. Or les étudiants accordent certainement des importances différentes à ces critères en fonction de leurs objectifs personnels. Cette critique est probablement la plus importante. La sensibilité à la pondération et la grande variation induite par celle-ci démontre toute la futilité de l'exercice.</p>
+<p>Une critique que l'on peut formuler à l'égard des classements de Shanghai et de l'etudiant.fr est qu'ils se basent en grande partie sur des données fournies par les établissements et sur des auto-évaluations sans contrôle à postériori. En raison des enjeux, les données et évaluations transmises peuvent être erronées à la source. Eduniversal s'appuie sur l'avis de pairs pour réduire ces effets. Seulement, au vu du nombre important des établissements évalués (1000 éparpillés sur 5 continents), il est très difficile d'imaginer que les doyens aient une vision correcte de la performance de l'ensemble des établissements et que leurs avis soient réellement pertinents.</p>
+<p>Même quand les sources sont de bonne foi, la mesure d'une variable peut différer d'un établissement à un autre en raison de différences de méthodologies. Un exemple concret : imaginons que le classement retienne la variable moyenne au bac des étudiants inscrits en première année et que deux écoles recrutent des bacheliers majoritairement à partir d'académies différentes. Si entre les académies, la moyenne générale des bacheliers diffère grandement (ce qui est le cas au Maroc par exemple) utiliser cette variable pour classer ces deux écoles n'aura pas de sens.</p>
+<p>Les classements ne tiennent pas compte du retour sur investissement en raison de la difficulté à recueillir les informations nécessaires. Et ce alors que les salaires des lauréats, la rapidité de leur insertion professionnelle et leur évolution de carrière sont déterminants. Ils évaluent donc les moyens et non les résultats. Au Maroc, on peut aisément constater qu'un grand nombre de grandes structures font un usage peu efficace des moyens mis à leur disposition.</p>
+<p>De même, les classements font l'impasse sur la valeur ajoutée par l'école (ou l'efficacité de l'école). Cette valeur ajoutée correspond à la différence entre le niveau des étudiants à l'entrée et à la sortie. En toute logique, les écoles les plus capables d'injecter de la valeur devraient être privilégiées par les classements, ce qui n'est pas la cas aujourd'hui.</p>
+<p>Que dire des écoles privées ? Aucun des classements ne tient compte du prix. Les écoles offrant un excellent rapport qualité/prix sont automatiquement défavorisées.</p>
+<p>Pour finir, les classements n'intègrent pas l'avis des recruteurs de grandes entreprises qui sont probablement les  seuls à avoir la connaissance spécialisée nécessaire pour évaluer les écoles de la manière la plus pertinente qui soit : les résultats in situ.</p>
+
+    
+
+        </div>
+    </div>
+
+        <footer>
+            <div class="row">
+                <div class="small-8 small-centered columns">
+                    &copy; 2016 Ecoles de Commerce de Rabat
+                </div>
+            </div>
+        </footer>
+        <script src="../static/jquery.min.js"></script>
+        <script src="../static/what-input.min.js"></script>
+        <script src="../static/foundation.min.js"></script>
+        <script> $(document).foundation(); </script>
+    </body>
+</html>

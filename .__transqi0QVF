@@ -12,19 +12,9 @@
     <body>
         <header>
             <div class="hero">
-            <!-- <img src="./static/PontM6.jpg" alt="" />
-                 <div class="herotext">
-                    <h1>Ecole de commerce à Rabat</h1>
-                    <hr>
-                    <h2> Que choisir ?</h2>
-                </div> -->
-                <img src="./static/PontM6.jpg" alt="" />
-                <div class="row">
-                    <div class="small-8 small-centered columns herotext text-center">
-                        <h1>Ecole de commerce à Rabat</h1>
-                        <hr class="stylish">
-                        <h2> Que choisir ?</h2>
-                    </div>
+              <img src="./static/PontM6.jpg" alt="" />
+              <div class="herotext">
+                <h1>Ecoles  de commerce à Rabat</h1>
               </div>
             </div>
         </header>
@@ -35,15 +25,13 @@
             <div class="small-8 small-centered columns">
                 
     
-        <h2><a href="./critique-des-classements-decoles-superieures/">Ecoles supérieures : une critique des classements</a></h2>
+        <h2><a href="./critique-des-classements-decoles-superieures/">Une critique des classements d&#39;écoles supérieures</a></h2>
     
-    <p class="postinfo">
-        <em>
-            Posté par
-            
-                Khalil,
-            le 2016-12-21
-        </em>
+    <p>
+        Posté par
+        
+            Khalil,
+        le 2016-12-21
     </p>
     
         De plus en plus d&#39;établissements s&#39;appuient sur les classements ou palmarès pour faire leur promotion. Que faut-il en penser ?
@@ -60,39 +48,14 @@
     
         <h2><a href="./first-post/">Conseil à un étudiant d’une école de commerce au Maroc</a></h2>
     
-    <p class="postinfo">
-        <em>
-            Posté par
-            
-                Adil,
-            le 2016-12-19
-        </em>
+    <p>
+        Posté par
+        
+            Adil,
+        le 2016-12-19
     </p>
     
-        Au Maroc, le choix du projet professionnel est souvent très difficile pour les élèves du lycée et mêmes pour les étudiants du supérieur. Comment faire ce choix de manière plus efficace ?
-    
-
-                <hr>
-            </div>
-        </div>
-    
-        <br>
-        <div class="row">
-            <div class="small-8 small-centered columns">
-                
-    
-        <h2><a href="./comparaison-efficience-etablissements-publiques-et-prives/">Efficience de l&#39;Enseignement Supérieur</a></h2>
-    
-    <p class="postinfo">
-        <em>
-            Posté par
-            
-                Rachid,
-            le 
-        </em>
-    </p>
-    
-        La comparaison de l&#39;efficience de l&#39;enseignement supérieur public et de l&#39;enseignement supérieur privé  est un préalable à l&#39;optimisation de l&#39;emploi des ressources de l&#39;Etat.
+        Au Maroc, le choix du projet professionnel est souvent très difficile pour les élèves du lycée et mêmes pour les étudiants du supérieur.
     
 
                 <hr>
