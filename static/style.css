@@ -16,7 +16,7 @@ hr.stylish {
 
 .heromenu {
     position: absolute;
-    top:5%;
+    top:2%;
 }
 
 .heromenu a {
@@ -30,7 +30,7 @@ hr.stylish {
 .herotext {
     position: absolute;
     color: white;
-    top:30%;
+    top:8%;
     margin-left: auto;
     margin-right: auto;
     left: 0;
