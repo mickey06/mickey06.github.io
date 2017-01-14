@@ -1,6 +1,7 @@
 .larger {
     font-size: larger;
 }
+
 .hero {
     margin:0 auto;
     position: relative;
@@ -12,6 +13,7 @@
 
 hr.stylish {
     border-width: 4px;
+    max-width: 10em;
     border-color: #fff;
 }
 
@@ -30,6 +32,8 @@ hr.stylish {
 
 .herotext {
     position: absolute;
+    font-size: 1,5em;
+    font-size: 6vw;
     color: white;
     top:8%;
     margin-left: auto;
