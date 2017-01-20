@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title type="text">My Blog</title>
+  <id>urn:uuid:ee2bf2b2-9d80-345f-a35f-02fa06c7e679</id>
+  <updated>2017-01-15T00:00:00Z</updated>
+  <link href="http://www.ecolecommercerabat.com/" />
+  <link href="http://www.ecolecommercerabat.com/feed.xml" rel="self" />
+  <author>
+    <name></name>
+  </author>
+  <generator uri="https://github.com/ajdavis/lektor-atom" version="0.2">Lektor Atom Plugin</generator>
+  <entry xml:base="http://www.ecolecommercerabat.com/meilleures-ecoles-commerce-maroc/">
+    <title type="text">Classement Percepticon 2017 des écoles de commerce du Maroc</title>
+    <id>urn:uuid:70e368d1-c9fb-3595-a5cc-763fda500b47</id>
+    <updated>2017-01-15T00:00:00Z</updated>
+    <link href="http://www.ecolecommercerabat.com/meilleures-ecoles-commerce-maroc/" />
+    <author>
+      <name>Rachid</name>
+    </author>
+    <content type="html">&lt;h2&gt;Comment établir la liste des meilleures écoles de commerce ?&lt;/h2&gt;
+&lt;p&gt;Le &lt;a href=&quot;http://www.ecolecommercerabat.com/&quot;&gt;blog des écoles de commerce de Rabat&lt;/a&gt; annonce les résultats du classement Percepticon 2017 : le nec plus ultra des business schools marocaines.&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;&lt;tr&gt;
+&lt;th&gt;IMPORTANT : Les business schools de l'enseignement supérieur privé ont été écartées de ce premier classement en raison d'une maladresse méthodologique qui n'a pas eu d'impact majeur sur le classement des écoles publiques mais qui a rendu l'exploitation des données des écoles privées impossible. Cette omission importante sera corrigée dès la prochaine édition du classement Percepticon. Notez que l'une d'entre elles pourrait même monter sur le podium et occuper l'une des trois premières places.&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;Les classements d'écoles influencent tellement certains bâcheliers dans leur choix d'orientation qu'avant de lire la suite, il est préférable de comprendre les critiques méthodologiques dont ils font l'objet et &lt;a href=&quot;http://www.ecolecommercerabat.com/critique-classements-ecoles-superieures/&quot;&gt;pourquoi&lt;/a&gt; ils sont à considérer avec précaution.&lt;/p&gt;
+&lt;p&gt;La singularité de ce palmarès est qu'il s'appuie sur une perception à 360° des écoles basée sur les opinions des étudiants, des lauréats et des enseignants de l'institut.&lt;/p&gt;
+&lt;p&gt;Nous avons opté pour un echantillonage de convenance puisque le coût serait rédhibitoire pour une étude réellement scientifique. Certes cette approche n'est pas sans failles mais elle permet de mieux cerner les établissements supérieurs de commerce marocains et ainsi éclairer les bacheliers marocains lors de leurs recherches.&lt;/p&gt;
+&lt;p&gt;Ce qui est le plus intéressant, c'est qu'il s'agit de l'avis de personnes qui connaissent le mieux  l'établissement en question et qu'ils se prononcent en fonction d'un vécu réel... Après, il semble évident que le choix du bachelier doit se faire sur la base d'un arbitrage entre les forces et faiblesses des différentes buisness schools et de ses préférences individuelles. On aurait même pu faire l'économie du terme classement tellement l'examen des colonnes forces et faiblesses peuvent être riche d'enseignements pour les futurs bacheliers.&lt;/p&gt;
+&lt;h2&gt;&lt;strong&gt;Classement Percepticon&lt;/strong&gt; des écoles de management marocaines&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;&lt;tr&gt;
+&lt;th&gt;Rang&lt;/th&gt;
+&lt;th&gt;Ecole&lt;/th&gt;
+&lt;th&gt;Forces des écoles&lt;/th&gt;
+&lt;th&gt;Faiblesses des écoles&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;Encg Settat&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;La renommée, la réputation, l'expérience, la formation, l'encadrement, l'insertion professionnelle, la culture de l'école, la localisation dans une ville estudiantine, les partenariats, la mobilité internationale, les activités parascolaires et le cadre agréable.&lt;/td&gt;
+&lt;td&gt;Certains professeurs manquent de sérieux et l'école n'assiste pas suffisamment les étudiants à trouver des stages&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;Encg Casablanca&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Les infrastructures, les enseignants, la sélectivité à l'entrée, l'insertion professionnelle, le diplôme est étatique, les séminaires et les conférences de haut niveau, la formation, la difficulté des études valorisante, le développement personnel, les activités parascolaires, la réputation, l'insertion professionnelle, l'encadrement, les projets et études terrain et le prestige.&lt;/td&gt;
+&lt;td&gt;La direction est mal-organisée, la qualité des études n'est pas homogène.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;3&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;Iscae&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;La réputation, les professeurs, l'expérience, les métiers d'avenir, l'insertion professionnelle, les activités parascolaires, ouverture sur l'international, le réseau des lauréats et la sélectivité.&lt;/td&gt;
+&lt;td&gt;Les professeurs ne sont pas tous pédagogues, certains enseignements n'ont pas d'impact sur l'employabilité&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;5&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;Encg Kenitra&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;La formation, un diplôme étatique, un profil polyvalent, activités parascolaires, développement personnel, préparation à l'emploi, réputation, insertion professionnelle, les étudiants sont obligés de s'ouvrir dur de nouvelles idées et le corps professoral.&lt;/td&gt;
+&lt;td&gt;Quelques rares professeurs, certains cours ne sont pas assez pratiques et manque d'interactivité entre les étudiants et les professeurs.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;6&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;Encg Tanger&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;La formation, les professeurs, la préparation à l'emploi, la sélectivité à l'entrée, la réputation, l'insertion professionnelle, la situation stratégique du campus, les activités parascolaires et l'administration.&lt;/td&gt;
+&lt;td&gt;La formation doit être revue sur certains points.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;7&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;Encg Agadir&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;La formation, les progesseurs, les programmes en phase avec la demande des entreprises, la notoriété, la renommée, l'insertion professionnelle, l'évolution de carrière, la sélectivité à l'entrée, une multitude de clubs pour les activités estudiantines et les locaux.&lt;/td&gt;
+&lt;td&gt;Les programmes douvent être rafraichis et devenir plus pertinents, la pédagogie de certains professeurs doit être révisée, l'encadrement doit s'améliorer, une culture estudiantine qui peut tendre vers l'égoïsme parfois, l'administration doit mieux expliquer ses décisions, les activités parascolaires ne collent pas toujours avec les besoins des étudiants&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</content>
+  </entry>
+  <entry xml:base="http://www.ecolecommercerabat.com/choisir-universite-ecole-commerce/">
+    <title type="text">Au Maroc, faut-il s'inscrire en gestion à l'université ou dans le privé ?</title>
+    <id>urn:uuid:eb880c8e-e83e-3aec-9331-a875c6bece35</id>
+    <updated>2017-01-07T00:00:00Z</updated>
+    <link href="http://www.ecolecommercerabat.com/choisir-universite-ecole-commerce/" />
+    <author>
+      <name>Ali</name>
+    </author>
+    <content type="html">&lt;h2&gt;Comment choisir entre la faculté d'économie, une école de commerce privée ou bien l'Université privée ?&lt;/h2&gt;
+&lt;p&gt;Quand le bachelier marocain détient les moyennes au bac nécessaires et qu'il veut faire carrière dans les métiers de la gestion, il s'oriente automatiquement vers les écoles publiques prestigieuses comme l'ISCAE, ou les ENCG et les EST, tant la réputation et le rapport qualité-prix de ces dernières est élevé. On peut dire de même pour ceux qui ont la possibilité d'aller poursuivre leurs études à l'étranger. Pour les autres, c'est un peu plus compliqué. Ils doivent impérativement faire le choix entre les établissements privés, les universités privés et l'université public.&lt;/p&gt;
+&lt;p&gt;Il est vrai que le secteur privé avance à pas de géant notamment dans les grandes villes comme Casablanca et Rabat. Selon les derniers chiffres du ministère, à Casablanca par exemple 30 % des etudiants ont fait le choix d'intégrer le privé, tous domaines confondus (ingénierie, management, santé, technique). Mais en raison du coût, ce type de formation ne convient pas à tout le monde.&lt;/p&gt;
+&lt;p&gt;Comment faire pour choisir le parcours en management le plus adapté à son profil ? &lt;strong&gt;Vous faut-il intégrer une business school privée, une université privée ou bien publique ?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Il n'est pas possible de répondre à cette question de manière définitive, c'est pourquoi nous avons énuméré les avantages et les inconvénients de ces formations.&lt;/p&gt;
+&lt;p&gt;A vous de faire votre choix parmi ces critères !&lt;/p&gt;
+&lt;p&gt;N'hésitez pas à nous faire part de tout manquement ci-dessous en commentaires.&lt;/p&gt;
+&lt;h3&gt;Avantages des écoles de commerce privées&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;concours d'accès ce qui signifie des admissions plus sélectives (vrai pour les plus sérieuses seulement)&lt;/li&gt;
+&lt;li&gt;des enseignants triés sur le volet&lt;/li&gt;
+&lt;li&gt;effectifs réduits (certaines sont à moins de 30 par groupe) ce qui donne le meilleur accès aux enseignants.&lt;/li&gt;
+&lt;li&gt;développment des soft-skills (communication, relationnel , respect des règles de l'organisation etc) meilleur que dans les universités publiques et privées, le lauréat sera plus prisé par l'entreprise&lt;/li&gt;
+&lt;li&gt;de meilleurs taux d'insertion, certaines entreprises ou certains domaines d'activité privilégient les lauréats du privé&lt;/li&gt;
+&lt;li&gt;existence de réseaux de lauréats ; entraide&lt;/li&gt;
+&lt;li&gt;de nombreux écoles offrent double diplômation internationale&lt;/li&gt;
+&lt;li&gt;des partenariats pour la mobilité académique internationale &lt;/li&gt;
+&lt;li&gt;apprendre à travailler en groupe&lt;/li&gt;
+&lt;li&gt;plusiurs stages sont obligatoires ce qui facilité l'insertion professionnelle&lt;/li&gt;
+&lt;li&gt;beaucoup d'exposés pour s'entrainer à la prise de parole&lt;/li&gt;
+&lt;li&gt;existence de junior entreprises pour découvrir l'entrepreneuriat et les métiers du conseil&lt;/li&gt;
+&lt;li&gt;séances de simulations aux entretiens d'embauche&lt;/li&gt;
+&lt;li&gt;activités culturelles&lt;/li&gt;
+&lt;li&gt;aide psycho-sociologique&lt;/li&gt;
+&lt;li&gt;des cours de soutien et de mise à niveau&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Inconvénients des écoles de commerce privées&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;une qualité inégale, certaines école offrent une formation d'excellence, d'autres non&lt;/li&gt;
+&lt;li&gt;les efforts et le temps consâcrés sont parfois trop importants ; les écoles veulent garantir la réussite de leurs lauréats&lt;/li&gt;
+&lt;li&gt;le coût de la formation&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Avantages des facultés de gestion des universités privées&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;sélection à l'entrée (attention ! la selectivité est moindre que dans les écoles de management)&lt;/li&gt;
+&lt;li&gt;des enseignants triés sur le volet&lt;/li&gt;
+&lt;li&gt;certaines sont reconnus, ce qui signifie que leurs lauréats pourront intégrer la fonction publique ou un doctorat, seulement est-ce une option intéressante en terme de retour sur investissment ?&lt;/li&gt;
+&lt;li&gt;les activités parascolaires sont meilleures que dans le public et similaires aux écoles privées&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Inconvénients des des facultés de gestion des universités privées&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;les effectifs des groupes sont très importants, l'accès au profs est moindre que dans les écoles privées&lt;/li&gt;
+&lt;li&gt;elles viennent de démarrer, leur capacité à intégrer les lauréats dans le milieu professionnel n'est pas encore prouvée&lt;/li&gt;
+&lt;li&gt;le rapport qualité/prix est très inférieur à celui des Business schools privées&lt;/li&gt;
+&lt;li&gt;éloignement, les universités publique et écoles privées sont toujours au centre ville, alors que les universités privées sont à l'extérieur des villes&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Avantage des facultés d'économie et de gestion des universités publiques&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;la gratuité de la formation&lt;/li&gt;
+&lt;li&gt;les étudiants doivent apprendre à devenir autonomes&lt;/li&gt;
+&lt;li&gt;programmes plus ambitieux (mais pas toujours achevés)&lt;/li&gt;
+&lt;li&gt;l'accès aux études doctorales pour devenir chercheur à l'université&lt;/li&gt;
+&lt;li&gt;l'accès à la fonction publique pour ceux qui rechechent la stabilité (au détriment du salaire)&lt;/li&gt;
+&lt;li&gt;l'accés à l'ENCG&lt;/li&gt;
+&lt;li&gt;absence de contrôle d'assiduité ; la liberté d'assister ou non aux cours&lt;/li&gt;
+&lt;li&gt;plus grande variété de masters&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Inconvénients des facultés d'économie et de gestion des universités publiques&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;pas de concours d'accès, tout le monde est accepté&lt;/li&gt;
+&lt;li&gt;l'étudiant peut se sentir perdu dans la masse&lt;/li&gt;
+&lt;li&gt;des enseignants très peu disponibles en raison des effectifs importants&lt;/li&gt;
+&lt;li&gt;pas d'entrainement à la prise de parole en public&lt;/li&gt;
+&lt;li&gt;activités parascolaires&lt;/li&gt;
+&lt;li&gt;moins d'enseignants professionnels&lt;/li&gt;
+&lt;li&gt;moins de stages&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+  </entry>
+  <entry xml:base="http://www.ecolecommercerabat.com/efficience-enseignement-superieur-marocain/">
+    <title type="text">Enseignement supérieur au Maroc : efficience du secteur public face au privé ?</title>
+    <id>urn:uuid:e1daab5f-0057-3482-9c31-57fd44f00d8a</id>
+    <updated>2016-12-23T00:00:00Z</updated>
+    <link href="http://www.ecolecommercerabat.com/efficience-enseignement-superieur-marocain/" />
+    <author>
+      <name>Rachid</name>
+    </author>
+    <content type="html">&lt;h2&gt;Efficience de l'enseignement supérieur public/privé. Pourquoi ?&lt;/h2&gt;
+&lt;p&gt;Comparer l'efficience du secteur de l'enseignement supérieur public à celui de l'enseignement supérieur privé marocain est un exercice intéressant dans le sens où cela peut donner des pistes d'amélioration pour les deux secteurs. Dans ce cas précis, nous nous sommes intéressés à la comparaison du coût de revient d'un lauréat Bac + 3 dans les deux systèmes. Ce que nous avons trouvé est assez effarant.&lt;/p&gt;
+&lt;h2&gt;Statistiques de l'enseignement supérieur marocain&lt;/h2&gt;
+&lt;p&gt;Faute de données actualisées au moment de la rédaction de cet article en 2013, nous nous sommes appuyés sur les données &lt;a href=&quot;http://www.enssup.gov.ma/index.php/statistiques/statistiques-universitaires&quot;&gt;statistiques officielles&lt;/a&gt; de l'A.U. 2009/2010. Même si ces chiffres sont anciens, à priori, il n'y a pas eu de changement majeur pouvant impacter les résultats de manière significative.&lt;/p&gt;
+&lt;p&gt;Au passage, nous déplorons le non-respect par Lahcen Daoudi du principe de la liberté d'accès aux informations  de l'administration.&lt;/p&gt;
+&lt;h3&gt;Statistiques de l'enseignement supérieur public&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Nombre d'inscrits : 308.005&lt;/li&gt;
+&lt;li&gt;Nombre d'inscrits en licence (L1 à L3) : 268.624&lt;/li&gt;
+&lt;li&gt;Nombre d'inscrits en Master (M1 et M2) : 19.195&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Statistiques de l'enseignement supérieur privé&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Nombre d'inscrits : 35.000&lt;/li&gt;
+&lt;li&gt;Nombre estimé d'inscrits en M1 et M2* : 12.863&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;L'efficience d'un cycle de formation&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;C'est le rapport entre le livrable et les ressources utilisées.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Le &lt;strong&gt;livrable&lt;/strong&gt; d'un établissement supérieur pour un cycle donné est tout simplement le nombre d'étudiants admis au cycle suivant.&lt;/p&gt;
+&lt;p&gt;Les &lt;strong&gt;ressources utilisées&lt;/strong&gt; découlent directement du nombre d'étudiants du cycle et du coût de revient unitaire d'un étudiant. Le coût de revient est bien évidemment supporté par la famille dans le cas de l'enseignement supérieur privé et par l'Etat dans le cas de l'enseignement supérieur public. Il se trouve que ce coût est sensiblement égal dans les deux cas, environ 35000 dirhams en moyenne, selon les dires concordants d'experts du domaine.&lt;/p&gt;
+&lt;p&gt;Pour simplifier les calculs, nous avons considéré que le nombre d'inscriptions, de ré-inscriptions et d'échec est constant dans le temps.&lt;/p&gt;
+&lt;h3&gt;Calcul de l'efficience de l'enseignement supérieur privé/public&lt;/h3&gt;
+&lt;p&gt;La répartition des étudiants par année est indisponible sur le site du Ministère, nous travaillons donc avec des estimations en utilisant la bonne vieille méthode du pifomètre.&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;&lt;tr&gt;
+&lt;th&gt;Données estimées&lt;/th&gt;
+&lt;th style=&quot;text-align:right&quot;&gt;Privé&lt;/th&gt;
+&lt;th style=&quot;text-align:right&quot;&gt;Public&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Inscrits premier cycle&lt;/td&gt;
+&lt;td style=&quot;text-align:right&quot;&gt;22.764&lt;/td&gt;
+&lt;td style=&quot;text-align:right&quot;&gt;268.624 &lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Livrable (lauréats 1er cycle)&lt;/td&gt;
+&lt;td style=&quot;text-align:right&quot;&gt;6.464&lt;/td&gt;
+&lt;td style=&quot;text-align:right&quot;&gt;8.954&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Coût de revient d'un étudiant en dh&lt;/td&gt;
+&lt;td style=&quot;text-align:right&quot;&gt;35.000&lt;/td&gt;
+&lt;td style=&quot;text-align:right&quot;&gt;35.000&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;table&gt;
+&lt;thead&gt;&lt;tr&gt;
+&lt;th&gt;Calculs&lt;/th&gt;
+&lt;th style=&quot;text-align:right&quot;&gt;Privé&lt;/th&gt;
+&lt;th style=&quot;text-align:right&quot;&gt;Public        &lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Ressources utilisées&lt;/td&gt;
+&lt;td style=&quot;text-align:right&quot;&gt;796.740.000&lt;/td&gt;
+&lt;td style=&quot;text-align:right&quot;&gt;9.401.840.000&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Efficience&lt;/td&gt;
+&lt;td style=&quot;text-align:right&quot;&gt;8.11306E-06&lt;/td&gt;
+&lt;td style=&quot;text-align:right&quot;&gt;9.52367E-07&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Coût de revient d'un lauréat en dh&lt;/td&gt;
+&lt;td style=&quot;text-align:right&quot;&gt;123.258&lt;/td&gt;
+&lt;td style=&quot;text-align:right&quot;&gt;1.050.015&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2&gt;Discussion&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;L'enseignement supérieur privé est 8.5 fois plus efficient que l'enseignement supérieur public !&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Le manque d'efficience de ce dernier s'explique directement par le taux de déperdition très élevé entre L1 et L2, entre L2 et L3 puis entre L3 et la diplomation.&lt;/p&gt;
+&lt;p&gt;Cette déperdition résulte elle-même d'un manque d'&lt;strong&gt;efficacité&lt;/strong&gt; du système universitaire qui n'arrive pas à rattraper les &lt;a href=&quot;http://telquel.ma/2015/11/24/les-10-tares-du-systeme-educatif-marocain_1471525&quot;&gt;lacunes du système de l'enseignement général&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;La validation des études semestre par semestre avec un programme identique pour tous n'arrange sans doute pas les choses ! En effet, il faut tout valider pour obtenir le diplôme.&lt;/p&gt;
+&lt;p&gt;Le système anglo-saxon où pour valider la formation, l'étudiant doit accumuler un nombre de crédits fixé à l'avance en piochant dans une liste individualisé de matières, pourrait s'avérer plus souple... Et donc réduire la déperdition.&lt;/p&gt;
+&lt;p&gt;La meilleure efficience du supérieur privé quant à lui s'explique par  :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;un meilleur taux d'encadrement en raison des groupes de petite taille&lt;/li&gt;
+&lt;li&gt;un taux élevé de vacataires dont on peut facilement se séparer en cas de mauvaises performances&lt;/li&gt;
+&lt;li&gt;des étudiants ayant probablement plus de moyens matériels à leur disposition et une plus grande entraide familiale &lt;/li&gt;
+&lt;li&gt;des cours de soutien individualisés&lt;/li&gt;
+&lt;li&gt;mais aussi par la réticence manifestée par certaines écoles, pas très sérieuses au demeurant, de perdre des étudiants même médiocres en raison de leur participation au chiffre d'affaires.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Conclusion&lt;/h2&gt;
+&lt;p&gt;Quand on compare les coûts de revient d'un lauréat, on comprend qu'il est temps de ré-examiner l'efficience de l'enseignement supérieur public dans l'optique d'une optimisation de l'emploi des ressources de l'Etat.&lt;/p&gt;
+&lt;p&gt;Idéalement, une réduction importante de la déperdition devrait être l'indicateur pricipal de réussite du successeur de Lahcen Daoudi. Seulement, ce n'est pas très réaliste sans un changement important du système. Et comme les réformes au Maroc ne sont presque jamais basées sur une approche empirique, il y a vraiment peu de chances de réussir de cette façon.&lt;/p&gt;
+&lt;p&gt;Une autre façon de faire serait d'encourager les étudiants à s'orienter davantage vers les formations privées. Surtout quand on se dit qu'une partie importante du coût de revient de l'enseignement supérieur privé est constitué d'impôts et de taxes qui reviennent à l'Etat...&lt;/p&gt;
+&lt;hr&gt;
+</content>
+  </entry>
+  <entry xml:base="http://www.ecolecommercerabat.com/critique-classements-ecoles-superieures/">
+    <title type="text">Classement des écoles supérieures au Maroc : regard critique</title>
+    <id>urn:uuid:b30d9e2c-f7bd-3455-a157-8498970f7751</id>
+    <updated>2016-12-21T00:00:00Z</updated>
+    <link href="http://www.ecolecommercerabat.com/critique-classements-ecoles-superieures/" />
+    <author>
+      <name>Khalil</name>
+    </author>
+    <content type="html">&lt;p&gt;Notez que ce post est fortement inspiré par cet &lt;a href=&quot;http://www.newyorker.com/magazine/2011/02/14/the-order-of-things&quot;&gt;article&lt;/a&gt; de Malcolm Gladwell publié dans The New Yorker en 2011&lt;/p&gt;
+&lt;h2&gt;Les meilleures école supérieures : faut-il croire les palmarès ?&lt;/h2&gt;
+&lt;p&gt;De plus en plus d'établissements s'appuient sur les classements ou palmarès pour faire leur promotion. On peut citer &lt;a href=&quot;http://hem.ac.ma/fr/conferences-grand-public/hem-number-1-au-classement-eduniversal-masters&quot; rel=&quot;nofollow&quot;&gt;HEM&lt;/a&gt; ou l'&lt;a href=&quot;http://www.esca.ma/esca/classement&quot; rel=&quot;nofollow&quot;&gt;ESCA&lt;/a&gt; par exemple.&lt;/p&gt;
+&lt;p&gt;Outre le problème de la &lt;a href=&quot;http://tempsreel.nouvelobs.com/education/20120614.OBS8389/l-orientation-des-etudiants-un-juteux-business.html&quot;&gt;crédibilité&lt;/a&gt; d'une bonne partie des &lt;a href=&quot;http://alchimy.info/faut-il-croire-les-classements-smbg/&quot;&gt;organisations&lt;/a&gt; qui réalisent ces classements, de nombreuses défaillances diminuent leur utilité réelle.&lt;/p&gt;
+&lt;p&gt;En particulier, le classement d'Eduniversal perd toute vraisemblance quand on constate que l'ISCAE et l'ENCG Settat sont derrière HEM et l'ESCA. HEM est bien un établissement respectable mais pas au point de surclasser les deux écoles de commerce les plus prestigieuses du pays ! Pour l'ESCA, c'est encore moins possible...&lt;/p&gt;
+&lt;p&gt;Sur la question d'utiliser les classements pour l'orientation, Nicolas Fellus, le Directeur de rédaction du groupe Studyrama.fr est catégorique.&lt;/p&gt;
+&lt;p&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/NCwth8zmw9s&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;h2&gt;La méthodologie utilisée par les organismes de classements des établissements supérieurs&lt;/h2&gt;
+&lt;p&gt;En règle générale, les classements partagent une méthodologie commune basé sur le choix d'un ensemble de critères pondérés.&lt;/p&gt;
+&lt;p&gt;Le classement de Shanghai repose sur 6 critères :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Nombre de lauréats ayant obtenu un prix Nobel ou une médaille Fields &lt;/li&gt;
+&lt;li&gt;Nombre d'enseignants ayant obtenu un prix Nobel ou une médaille Fields&lt;/li&gt;
+&lt;li&gt;Nombre de chercheurs très fortement cités par d'autres&lt;/li&gt;
+&lt;li&gt;Nombre d'articles publiés dans les célèbres revues Nature ou Science&lt;/li&gt;
+&lt;li&gt;Nombre d'articles indexés par Science Citation Index-expanded et Social Science Citation Index&lt;/li&gt;
+&lt;li&gt;Les scores de 5 critères précédents pondérés et rapportés au nombre d'enseignants permanents&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Chez Eduniversal, le classement s'établit :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;en fonction des accréditations obtenues&lt;/li&gt;
+&lt;li&gt;des classements internationaux&lt;/li&gt;
+&lt;li&gt;de l'appartenance à des associations académiques &lt;/li&gt;
+&lt;li&gt;ainsi que de l'avis des pairs : les doyens évaluent les établissements de leurs pairs&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Challenge.fr utilise quant à lui pour son classement des écoles de commerce françaises plus de 19 &lt;a href=&quot;http://www.challenges.fr/emploi/classement-des-ecoles-de-commerce/notre-methodologie-pour-etablir-le-classement-2016-des-ecoles-post-prepa_31454&quot;&gt;critères&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;Critiquons les classements d'école&lt;/h2&gt;
+&lt;p&gt;Le classement de Shanghai élimine d'office les écoles de commerce et les écoles d'ingénieurs, mêmes les plus prestigieuses, car les critères retenus sont favorables aux institutions de recherche de grande taille. Or les écoles ont pour mission de former de futurs cadres supérieurs à Bac + 5/6, non des chercheurs.&lt;/p&gt;
+&lt;p&gt;Le classement de Challenge.fr a été conçu, pour évaluer les écoles de commerce. Il répond donc à la critique précédente en reconnaissant implicitement qu'il est illusoire de vouloir classer ensemble les universités et les écoles ou les écoles de commerrce et d'ingénieurs. Néanmoins, il souffre d'au moins deux problèmes majeurs.  Premièrement, il ne tient pas compte de la qualité --forcément variable-- des filières de formation au sein d'un établissement. Les étudiants choisissent une formation par vocation et pour les débouchées qu'elle offre ; ces classements d'écoles ne peuvent les aider dans cette recherche. Deuxièmement, il suffit de changer la pondération pour obtenir des classements très différents. Or les étudiants accordent certainement des importances différentes à ces critères en fonction de leurs objectifs personnels. Cette critique est probablement la plus importante. &lt;strong&gt;La sensibilité à la pondération et la grande variation induite par celle-ci démontre toute la futilité de l'exercice de vouloir classer les écoles.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Une critique que l'on peut formuler à l'égard des classements de Shanghai et de Challenge.fr est qu'ils se basent en grande partie sur des données fournies par les établissements et sur des auto-évaluations sans contrôle à postériori. En raison des enjeux, les données et évaluations transmises peuvent être erronées à la source. Notons que certains organismes de classement s'appuient sur l'avis de pairs pour réduire ces effets.&lt;/p&gt;
+&lt;p&gt;Mais même quand les sources sont de bonne foi, la mesure d'une variable peut différer d'un établissement à un autre en raison de différences de méthodologies. Un exemple concret : imaginons que le classement retienne la variable &quot;moyenne au bac des étudiants inscrits en première année&quot; et que deux écoles recrutent des bacheliers majoritairement à partir d'académies différentes. Si entre les académies, la moyenne générale des bacheliers diffère grandement, utiliser cette variable pour classer ces deux écoles n'aura pas de sens.&lt;/p&gt;
+&lt;p&gt;Il est intéressant de comprendre que les classements ne tiennent pas compte du &lt;strong&gt;retour sur investissement d'une formation&lt;/strong&gt; en raison de la difficulté à recueillir les informations nécessaires. Et ce alors que les salaires des lauréats, la rapidité de leur insertion professionnelle et leur évolution de carrière sont déterminants. Les classements évaluent donc les moyens et non les résultats.&lt;/p&gt;
+&lt;p&gt;C'est l'usage efficiente et efficace des moyens qui permettrait réellement de faire la part des choses entre le managements des établissements écoles... Or tous les classements font l'impasse sur la valeur ajoutée par l'école (i.e. l'efficacité de l'école). Précisions que cette valeur ajoutée correspond à la différence entre le niveau des étudiants à l'entrée et à la sortie. En toute logique, les écoles les mieux à mêmes d'injecter de la valeur devraient être privilégiées par les classements, ce qui n'est pas la cas aujourd'hui. Ils font également l'impasse sur l'efficience (i.e. le rapport qualité/investissement).&lt;/p&gt;
+</content>
+  </entry>
+  <entry xml:base="http://www.ecolecommercerabat.com/conseil-etudiant-ecole-commerce/">
+    <title type="text">Conseil à un étudiant d’une école de commerce au Maroc</title>
+    <id>urn:uuid:0dc0001d-0225-3477-8b43-277b90fe6803</id>
+    <updated>2016-12-19T00:00:00Z</updated>
+    <link href="http://www.ecolecommercerabat.com/conseil-etudiant-ecole-commerce/" />
+    <author>
+      <name>Adil</name>
+    </author>
+    <content type="html">&lt;p&gt;Au Maroc, le choix du projet professionnel est souvent très difficile pour les élèves du lycée et mêmes pour les étudiants du supérieur. Il se fait souvent de manière quelque peu aléatoire et ce pour différentes raisons. Pour un bachelier, le choix d’un établissement supérieur dépend de la note obtenu au baccalauréat. Pour un lauréat du supérieur, l’un des facteurs les plus déterminants est le relationnel existant au moment de l’obtention du diplôme. Dans les deux cas, les candidats ne s’attachent pas fortement à un projet particulier car ils sont conscients de la nécessité de rester souples afin de s’adapter à la situation qui se présentera le jour J.&lt;/p&gt;
+&lt;p&gt;Pour les meilleurs, cette incertitude ne semble pas poser trop de problèmes. Pour les étudiants moins doués ou plus fragiles sur le plan psychique ou physique, cette situation d’incertitude peut devenir un facteur de démotivation. Si l’étudiant du supérieur ou l’élève du baccalauréat n’est pas attentif, il risque de ne pas s’impliquer suffisamment dans ces études. Ses notes risquent d’en souffrir au même titre que sa confiance. Quand la confiance est atteinte, il existe le risque de se retrouver dans un cercle vicieux qu’il deviendra difficile de briser.&lt;/p&gt;
+&lt;p&gt;La nécessité de rester souple a des répercussions sur tous les candidats ou presque ; seul un nombre très réduit poursuit une formation en rapport avec ses rêves. Ce qui provoque des situations incongrues. On retrouve des étudiants dans une école d’architecture alors qu’il n’ont jamais envisagé un jour de faire une carrière créative comme celle-là. Ou bien des médecins pour qui le sermon d’Hippocrates n’est qu’une formalité préalable à la pratique d’un métier lucratif. Ou tout simplement des étudiants non motivés car incertains de trouver un emploi faute de relationnel bien placé au moment donné.&lt;/p&gt;
+&lt;p&gt;Pour les bacheliers voulant intégrer des écoles et établissements publics à accès régulé par concours, le système est ainsi fait et il n’y a pas forcément de solutions évidentes. Pour les lauréat du supérieur dont l’objectif est l’insertion professionnel, il existe une solution très efficace.&lt;/p&gt;
+&lt;p&gt;Avant d’en parler, il faut comprendre que compter sur son relationnel pour l’insertion professionnel va de pair avec la renonciation à tout forme de projet professionnel. Pourquoi ? Parce qu’il est impossible de prévenir le poste et le métier qui pourrait devenir le sien. Et qu’il devient donc inutile de s’investir dans un projet dont la rentabilité est incertaine.&lt;/p&gt;
+&lt;p&gt;Mais que faire quand le relationnel se montre inopérant ? Une meilleure solution consiste à développer un projet professionnel en parallèle même lorsque l’on est persuadé que l’approche relationnelle est la seule performante. Se dire qu’il est possible d’obtenir en emploi sans passer par son réseau relationnel permet en effet de réduire le risque de ne pas trouver un emploi.&lt;/p&gt;
+&lt;p&gt;Souvent, les étudiants d’école de commerce qui font les plus belles carrières sont ceux et celles qui ont défini très tôt leur projet professionnel. Ce n’est pas surprenant ! Imaginons un étudiant en gestion qui souhaite faire carrière dans le secteur agro-alimentaire par exemple. Il orientera tous ses projets et stages autour de problématiques pertinentes. Le recruteur découvrira alors un CV avec un objectif clair où l’on voit une motivation qui se dessine dès les premières années d’études et il sera plus enclin à lui proposer un emploi.&lt;/p&gt;
+&lt;p&gt;Si les étudiants d’écoles de commerce sont nombreux à admettre l’intérêt de définir un projet professionnel, peu d’entre eux arrivent en fin de cursus avec un parcours vraiment cohérent qui il faut le dire est le signe d’un projet bien ficelé.&lt;/p&gt;
+&lt;p&gt;Un des obstacles les plus courants reste le choix même du projet professionnel. La grosse difficulté étant d’origine psychologique. Choisir un projet, c’est d’office fermer la porte aux autres. Ce qui est en contradiction flagrante avec la souplesse mentale que nous avons déjà évoqués.&lt;/p&gt;
+&lt;p&gt;Comment résoudre cette espèce de dissonance cognitive ? Cela passe par encore plus de souplesse. Oui, l’étudiant en école de commerce doit combattre ses réflexes et tout ce qu’il a appris pour accepter d’investir dans un projet qui pourrait ne pas avoir de retour sur investissement. Et même d’y mettre corps et âme…&lt;/p&gt;
+&lt;p&gt;Même lorsque le projet professionnel n’a pas de retour direct, il y a toujours un retour indirect. En élaborant son projet l’étudiant apprend à :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;analyser un secteur d’activité en identifiant le contexte et les enjeux&lt;/li&gt;
+&lt;li&gt;mieux connaître son profil&lt;/li&gt;
+&lt;li&gt;identifier les opportunités d’emploi en adéquation avec son profil&lt;/li&gt;
+&lt;li&gt;développer une approche stratégique pour sa carrière&lt;/li&gt;
+&lt;li&gt;se soumettre à des objectifs à moyen et long terme&lt;/li&gt;
+&lt;li&gt;développer son propre tissu relationnel&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+  </entry>
+</feed>
